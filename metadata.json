@@ -1,0 +1,7 @@
+{
+  "name": "V-MAC - Veterinary Medicine and Animal Welfare Club",
+  "description": "A comprehensive club website for Veterinary Medicine and Animal Welfare with a dynamic admin panel, notice board, and gallery management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
